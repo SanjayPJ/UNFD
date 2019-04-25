@@ -1,0 +1,9 @@
+/* add your CSS here */
+#list li{
+	font-weight: bold;
+	list-style: none;
+}
+
+#animal-name, #animal-image, #animal-info{
+	border: 1px solid black;
+}
